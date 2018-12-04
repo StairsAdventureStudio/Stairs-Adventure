@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b23aa634ae397f48a949f8097f0f8b3, type: 3}
+  m_Name: Skin Data
+  m_EditorClassIdentifier: 
+  skin:
+  - colors: {r: 1, g: 0, b: 0, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: 
+    testIndex: 0
+    testValue: 0
+  - colors: {r: 0, g: 0.41719317, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 1 times!
+    testIndex: 1
+    testValue: 1
+  - colors: {r: 0.024959564, g: 1, b: 0, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 3 times!
+    testIndex: 1
+    testValue: 3
+  - colors: {r: 1, g: 0.4651919, b: 0, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 3 times!
+    testIndex: 1
+    testValue: 3
+  - colors: {r: 1, g: 0.91147983, b: 0, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 5 times!
+    testIndex: 1
+    testValue: 5
+  - colors: {r: 1, g: 0, b: 0.6367698, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 5 times!
+    testIndex: 1
+    testValue: 5
+  - colors: {r: 0.6051183, g: 0, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 5 times!
+    testIndex: 1
+    testValue: 5
+  - colors: {r: 0.2924528, g: 0.2924528, b: 0.2924528, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 10 times!
+    testIndex: 1
+    testValue: 10
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 48d86f95753db9b4abb448150790ba39, type: 3}
+    opis: You must play 10 times!
+    testIndex: 1
+    testValue: 10
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 1b3143acf0956ac42a827e35a0eb6826, type: 3}
+    opis: You must have high score higher than 15!
+    testIndex: 2
+    testValue: 15
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: d5087691e8e44b249b3891a24578cb90, type: 3}
+    opis: You must have high score higher than 20!
+    testIndex: 2
+    testValue: 20
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 7c3399a7293385d4d9f1019fa476f7af, type: 3}
+    opis: You must have high score higher than 20!
+    testIndex: 2
+    testValue: 20
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: b97a79f762fda1d4b857d944de22f097, type: 3}
+    opis: You must play 25 times!
+    testIndex: 1
+    testValue: 25
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 21656e1eef6ffd84b8224321f93de443, type: 3}
+    opis: You must play 50 times!
+    testIndex: 1
+    testValue: 50
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 40723fad1c47158458a69fcba944e1c9, type: 3}
+    opis: You must have high score higher than 30!
+    testIndex: 2
+    testValue: 30
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 9f9a3ada81497b24b81b5033bea31ba0, type: 3}
+    opis: You must have high score higher than 25!
+    testIndex: 2
+    testValue: 25
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: a1cfbcefdd9fa5443a192c744a44dc6b, type: 3}
+    opis: You must have high score higher than 25!
+    testIndex: 2
+    testValue: 25
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: f734ac0f3d252274795f3ac147cfba5e, type: 3}
+    opis: You must play 150 times!
+    testIndex: 1
+    testValue: 150
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 55b82d9bf82c0484599eeab1a12db3c3, type: 3}
+    opis: You must play 200 times!
+    testIndex: 1
+    testValue: 200
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 6c312170ddb67564a9b548058a010ab1, type: 3}
+    opis: You must play 100 times!
+    testIndex: 1
+    testValue: 100
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: eac63af245cc24f4b9b1a11a3e0a20ef, type: 3}
+    opis: You must have high score higher than 30!
+    testIndex: 2
+    testValue: 30
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 27117d512f724494986487d3fc8541f6, type: 3}
+    opis: You must have high score higher than 10!
+    testIndex: 2
+    testValue: 10
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 68021982f47596d41946aca6d32044f5, type: 3}
+    opis: You must have 50 points in total!
+    testIndex: 3
+    testValue: 50
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: e2543d42514184746bb2443b2241de69, type: 3}
+    opis: You must have 100 points in total!
+    testIndex: 3
+    testValue: 100
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: 5c422e1fb383f5349a0dd6243dd71945, type: 3}
+    opis: You must have 150 points in total!
+    testIndex: 3
+    testValue: 150
+  - colors: {r: 1, g: 1, b: 1, a: 0}
+    sprites: {fileID: 21300000, guid: a799f51f24657c040a58aedea91d2db9, type: 3}
+    opis: You must have 200 points in total!
+    testIndex: 3
+    testValue: 200
